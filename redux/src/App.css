@@ -1,0 +1,27 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body{
+  display: flex;
+  justify-content: center;
+  margin-top: 30px;
+}
+
+h1{
+  height: 50px;
+  padding: 10px;
+  text-align: center;
+}
+
+button{
+  padding: 5px;
+  margin: 5px;
+}
+
+.border{
+  border: 1px dashed grey;
+  padding: 25px;
+}
